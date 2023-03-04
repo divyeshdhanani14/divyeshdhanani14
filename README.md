@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Data Scientist from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Netflix Movies TV Show Recommendation System<br><br>🌱 I’m currently learning Python, SQL, Pyspark, AWS, DL, Flask, Hiroku<br><br>👨‍💻 All of my projects are available at https://github.com/divyeshdhanani14<br><br>📝 I regularly write articles on https://medium.com/@divyeshdhanani14<br><br>💬 Ask me about Python<br><br>📫 How to reach me divyeshdhanani143@gmail.com
+🔭 I’m currently working on Netflix Movies TV Show Recommendation System<br><br>🌱 I’m currently learning Python, SQL, Pyspark, AWS, DL, Flask, Hiroku<br><br>📝 I regularly write articles on https://medium.com/@divyeshdhanani14<br><br>💬 Ask me about Python<br><br>📫 How to reach me divyeshdhanani143@gmail.com
 
 
 ## 🌐 Socials:
